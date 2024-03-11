@@ -8,8 +8,8 @@ This will be a test in which we want a candidate to log in to a web application 
 
 - URL for the Panel - https://demo.dealsdray.com/
 - Login credentials for the Panel
-Username : [prexo.mis@dealsdray.com](mailto:prexo.mis@dealsdray.com)
-Password : [prexo.mis@dealsdray.com](mailto:prexo.mis@dealsdray.com)
+Username : [prexo.mis@dealsdray](mailto:prexo.mis@dealsdray)  # Replace with original username
+Password : [prexo.mis@dealsdray](mailto:prexo.mis@dealsdray)   # Replace with original password
 - XLS file to upload
     
     [demo-data.xlsx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24eba15b-94be-418e-9a04-9150883ff8b3/demo-data.xlsx)
